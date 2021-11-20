@@ -16,6 +16,9 @@ html{
     margin: 0;
     box-sizing: border-box;
 }
+.head-bar{
+  display: none;
+}
 #navbar{
     background-color: #1e262e;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(bg4.jpg);
@@ -228,6 +231,7 @@ button.fancy {
     margin-top: 5%;
     display: flex;
     justify-content: space-around;
+    
     
 }
 .row{
